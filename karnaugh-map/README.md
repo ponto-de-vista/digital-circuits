@@ -1,0 +1,1 @@
+Diagram that can be used to simplify a Boolean algebra.

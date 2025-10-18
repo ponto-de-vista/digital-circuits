@@ -1,0 +1,5 @@
+voltage
+Potential
+Power
+Current
+Resistance

@@ -1,0 +1,1 @@
+Boolean Algebra is a branch of mathematics using variables with two values (0 or 1) and logic operations like AND, OR, and NOT.

@@ -1,0 +1,6 @@
+1. NOT
+2. NAND
+3. NOR
+4. AND
+5. OR
+6. XOR
