@@ -1,0 +1,11 @@
+# Arquivos de resultado de simulação do LTspice (grandes e binários)
+*.raw
+*.op.raw
+
+# Arquivos gerados (netlists, logs, etc.)
+*.net
+*.log
+*.plt
+
+# Arquivos de backup comuns
+*.bak
